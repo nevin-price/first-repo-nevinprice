@@ -1,11 +1,3 @@
-<ul id="menu"
-    <li class = "item">Age<li/>
-    <li class = "item">Where I'm from!<li/>
-    <li class = "item">Future Plans<li/>
-<ul/>
-
-.item {color: black }
-#menu {color: brown }
 
 button{
     border: 2px;
@@ -13,6 +5,8 @@ button{
     background: #64b8c0;
     color: black;
     border-radius: 8px
+
+
 
 }
 
